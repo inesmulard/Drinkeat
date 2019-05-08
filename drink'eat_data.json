@@ -1,0 +1,47 @@
+{
+  "Category": {
+    "01": {
+      "Name": "COCKTAILS AVEC ALCOOLS",
+      "Image": "https://assets.afcdn.com/recipe/20180803/81681_w1024h768c1cx2250cy1498cxt0cyt0cxb4500cyb2993.jpg"
+    },
+    "02": {
+      "Name": "COCKTAILS SANS ALCOOLS",
+      "Image": "https://vintense.be/wp-content/uploads/recette-sunrise-1.jpg"
+    },
+    "03": {
+      "Name": "BIERES",
+      "Image": "https://i.f1g.fr/media/madame/1900x1900/sites/default/files/img/2017/01/biere.jpg"
+    },
+    "04": {
+      "Name": "VINS ET BULLES",
+      "Image": "http://www.beforelove.fr/wp-content/uploads/2018/01/health-benefits-wine.png"
+    },
+    "05": {
+      "Name": "SOFTS",
+      "Image": "http://pizza-suresnes.com/wp-content/uploads/2015/08/soft-drinks.jpg"
+    },
+    "06": {
+      "Name": "SHOOTERS",
+      "Image": "https://assets.afcdn.com/recipe/20180801/81668_w350h250c1cx2250cy1500cxt0cyt0cxb4500cyb3000.jpg"
+    },
+    "07": {
+      "Name": "FINGER FOOD",
+      "Image": "http://shirefoods.com.au/wp-content/uploads/fingerfood-asian.jpg"
+    },
+    "08": {
+      "Name": "BOISSONS CHAUDES",
+      "Image": "http://www.letudiant.fr/static/uploads/mediatheque/TRD_TRD/5/9/77859-fotolia-45360731-s-_x450.jpg"
+    }
+  },
+
+  "user" : {
+    "0988123344" : {
+      "name" : "inesm",
+      "password" : "1234"
+    },
+    "0988123355" : {
+      "name" : "emmasgg",
+      "password" : "1597"
+    }
+  }
+}
